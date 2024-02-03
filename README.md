@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vijay arun
+Hello👋 , I'am Vijay arun
 ==================================================================================================================================
 
-Ml Developer
+Ml & DL Developer
 ------------
 
 I am Ml & DL developer, Committed to continuous learning and growth in the field of AI.
