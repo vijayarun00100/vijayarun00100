@@ -7,10 +7,10 @@ Ml Developer
 I am Ml & DL developer, Committed to continuous learning and growth in the field of AI.
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://vijayarun.vercel.app/)
+* 🖥️  See my portfolio at -> http://vijayarun.vercel.app/
 * ✉️  You can contact me at [blockloader78@gmail.com](mailto:blockloader78@gmail.com)
-* 🚀  I'm currently working on [enhancing my skills.](http://.)
-* 🧠  I'm learning algorithm exploration
+* 🚀  I'm currently working to enhance my skills.
+* 🧠  I'm Cooking something interesting 
 * 🤝  I'm open to collaborating on Projects & Hackathons
 * ⚡  I'am Batman , tell everyone !
 
