@@ -35,3 +35,6 @@ I am Ml & DL developer, Committed to continuous learning and growth in the field
 <a href="http://www.github.com/vijayarun00100"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vijayarun00100&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/vijayarun00100" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijayarun00100&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+[![An image of @vijayarun00100's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijayarun00100)](https://holopin.io/@vijayarun00100)
