@@ -4,7 +4,9 @@ Hello👋 , I'am Vijay arun
 Ml & DL Developer
 ------------
 
-I am Ml & DL developer, Committed to continuous learning and growth in the field of AI.
+I am an enthusiastic developer eager to delve into the world of technology, eager to learn and explore.
+
+
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at -> http://vijayarun.vercel.app/
