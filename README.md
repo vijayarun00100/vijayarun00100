@@ -10,7 +10,7 @@ I am an enthusiastic developer eager to delve into the world of technology, eage
 
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at -> http://vijayarun.vercel.app/
+* 🖥️ portfolio at -> http://vijayarun.vercel.app/
 * 📫 How to reach me -> [blockloader78@gmail.com](mailto:blockloader78@gmail.com)
 * 🚀  I'm currently working to enhance my skills.
 * 🧠  I'm Cooking something interesting 
@@ -62,7 +62,7 @@ I am an enthusiastic developer eager to delve into the world of technology, eage
 
 <p align="center">
 
-![Snake animation](https://github.com/Jkanishkha0305/Jkanishkha0305/blob/main/assets/jkanishkha0305.svg)
+![Snake animation](https://github.com/vijayarun00100/vijayarun00100/blob/main/assets/vijayarun00100.svg)
 
 </p>
 
