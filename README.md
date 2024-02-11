@@ -1,7 +1,7 @@
 Hello👋 , I'am Vijay arun
 ==================================================================================================================================
 
-Ml & DL Developer
+Machine & Deep Learning Engineer
 ------------
 
 I am an enthusiastic developer eager to delve into the world of technology, eager to learn and explore.
